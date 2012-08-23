@@ -10,5 +10,5 @@ Team:
 - Michael Seifarth
 - Jörn Hees
 
-![Play Oink](https://joernhees.github.com/OinkBoing/), jump through the world, eat stuff and get fat ;)
+![Play Oink](http://joernhees.github.com/OinkBoing/), jump through the world, eat stuff and get fat ;)
 
